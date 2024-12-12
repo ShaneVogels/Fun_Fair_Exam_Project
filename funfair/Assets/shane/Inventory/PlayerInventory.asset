@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c533fc0786342f340856ae86e1142719, type: 3}
+  m_Name: PlayerInventory
+  m_EditorClassIdentifier: 
+  items:
+  - itemName: Hotdog
+    isEnabled: 1
+    itemPrefab: {fileID: 3126968833984055933, guid: 99da7db8dabb5954c9839d1ee864b852, type: 3}
+  - itemName: Popcorn
+    isEnabled: 0
+    itemPrefab: {fileID: 3451415235769200900, guid: 3e04ebdb8c6b27b4fac633f4f57ec650, type: 3}
+  - itemName: CottonCandy
+    isEnabled: 1
+    itemPrefab: {fileID: 3431646821572848108, guid: 53a9dfbc3cdbd5944a58fbc524714881, type: 3}
+  - itemName: Shooting Game Prize
+    isEnabled: 0
+    itemPrefab: {fileID: 0}
+  - itemName: Rope Pull Prize
+    isEnabled: 0
+    itemPrefab: {fileID: 0}
+  - itemName: Can Throwing Prize
+    isEnabled: 0
+    itemPrefab: {fileID: 0}
+  - itemName: Coin Dozer Prize
+    isEnabled: 0
+    itemPrefab: {fileID: 0}
+  - itemName: Maze Prize
+    isEnabled: 0
+    itemPrefab: {fileID: 0}
+  - itemName: Kiddy Ride Prize
+    isEnabled: 0
+    itemPrefab: {fileID: 0}
+  - itemName: Caterpillar Prize
+    isEnabled: 0
+    itemPrefab: {fileID: 0}
+  - itemName: Droptower Prize
+    isEnabled: 0
+    itemPrefab: {fileID: 0}
