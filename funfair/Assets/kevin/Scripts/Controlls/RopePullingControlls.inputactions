@@ -1,0 +1,34 @@
+{
+    "name": "RopePullingControlls",
+    "maps": [
+        {
+            "name": "Keyboard",
+            "id": "1f6af24c-4d29-4430-a183-e83856e52efb",
+            "actions": [
+                {
+                    "name": "Shoot",
+                    "type": "Button",
+                    "id": "2214755e-134b-4fa9-a800-dd0e9d11727e",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "b6d63308-60b7-462e-8da3-312f1c0bc098",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Shoot",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
